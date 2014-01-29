@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="delete">Удалить</string>
+    <string name="map">Карта</string>
+    <string name="name">Название</string>
+    <string name="address">Адрес</string>
+    <string name="add">Добавить</string>
+    <string name="error_name">Название точки не может быть пустым</string>
+    <string name="error_req">Ошибка при выполнении запроса</string>
+    <string name="error_connection">Ошибка при выполнении запроса</string>
+    <string name="error_addr">Не удалось найти указанный Вами адрес</string>
+    
+    <string name="result_point_added">Точка успешно добавлена</string>
+
+</resources>
